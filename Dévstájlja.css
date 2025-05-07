@@ -1,0 +1,57 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+#kisebbdolgok {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+#sztori {
+    font-family: sans-serif;
+}
+.igen {
+    text-align: right;
+}
+.leiras {
+    font-size: 50px;
+}
+td {
+    text-align: center;
+}
+table {
+width: 100%;
+}
+p {
+    font-size: 20px;
+}
+h3 {
+    font-size: 25px;
+}
+body {
+    color: aliceblue;
+}
+a:link {
+    color: rgb(67, 167, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(0, 101, 189);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(139, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+}
