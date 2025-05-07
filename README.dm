@@ -3,7 +3,7 @@ Ez az oldal a **Netflix és chill** csapat kedvenc filmeit és könyveit mutatja
 A csapatban Juli weboldalát sajnos technikai okok miatt nem tudta teljesen befejezni.
 
 ##Az oldal
-Az oldalt az alábbi linken tudjátok megtekinteni: 💾
+Az oldalt az alábbi linken tudjátok megtekinteni: https://nemedi-vargamate.github.io/Netflix-s-chill/ 💾
 
 ##A részek amelyekre büszkék vagyunk:
 ###Juli codesnippet📱
@@ -22,6 +22,14 @@ Az oldalt az alábbi linken tudjátok megtekinteni: 💾
             </ul>
 ```html
 ###Dávid codesnippet📱
+```css
+body { 
+            background-repeat: no-repeat;
+            background-size: contain;
+      background-image:
+      linear-gradient(rgba(110, 16, 16, 0.9), rgba(110, 16, 16, 0.9)),
+      url(images/davidkedvenc/people-get-hit-face-really-260nw-2075400820.jpg);}
+```css
 ###Máté codesnippet📱
 ```html
 <Table id="jelvenyek">
